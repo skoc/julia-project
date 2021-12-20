@@ -1,0 +1,7 @@
+tqdm 
+tensorboardX 
+torchvision 
+scikit-image 
+medpy 
+h5py
+nibabel

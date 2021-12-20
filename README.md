@@ -1,1 +1,1 @@
-# julia-project
+# semi-supervised-julia
